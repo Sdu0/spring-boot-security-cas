@@ -1,0 +1,6 @@
+/home/sdu/Public/springboot-security-cas/src/main/java/com/chengli/springboot/MainConfig.java
+/home/sdu/Public/springboot-security-cas/src/main/java/com/chengli/springboot/custom/UserInfo.java
+/home/sdu/Public/springboot-security-cas/src/main/java/com/chengli/springboot/custom/CustomUserDetailsService.java
+/home/sdu/Public/springboot-security-cas/src/main/java/com/chengli/springboot/custom/AuthorityInfo.java
+/home/sdu/Public/springboot-security-cas/src/main/java/com/chengli/springboot/properties/CasProperties.java
+/home/sdu/Public/springboot-security-cas/src/main/java/com/chengli/springboot/security/SecurityConfig.java
